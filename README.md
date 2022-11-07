@@ -6,6 +6,8 @@
 
 [![wlroh's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlroh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlroh&layout=compact)](https://github.com/wlroh/github-readme-stats)
+  
 </div>
 
 <div align=center>
