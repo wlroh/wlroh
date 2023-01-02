@@ -6,7 +6,7 @@
 
 목표를 이루기 위해 시스템을 만들고, 시스템을 유지하기 위해 회고하는 개발자가 되기 위해 노력하고 있어요!
 
-오늘도 모두 수고했어요 :pray:
+오늘도 모두 수고하셨어요 :pray:
 
 Blog: [래웅의 블로그](https://wlroh.github.io) <br/>
 LinkedIn: [링크드인 프로필](https://www.linkedin.com/in/wlroh)
